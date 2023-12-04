@@ -1,4 +1,4 @@
-<p align="center">Hi 👋 Myself Prachi Kale </p>
+Hi 👋 Myself Prachi Kale 
 =================================================================================================
 Full Stack Web Developer
 ------------------------
