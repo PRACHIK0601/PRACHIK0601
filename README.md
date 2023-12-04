@@ -6,7 +6,7 @@ Full Stack Web Developer
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [prachiskale06.com](mailto:prachiskale06@gmail.com)
 
->### Skills 
+### Skills 
 
 <p align="center">
   <a href="https://skillicons.dev">
