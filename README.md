@@ -11,8 +11,9 @@ Full Stack Web Developer
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /><br/>
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,python,php" /><br/>
-    <img src="https://skillicons.dev/icons?i=git,jquery,mysql,sass" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,c,cpp,apollo" /><br/>
+    <img src="https://skillicons.dev/icons?i=jquery,mysql,firebase,postgres" />
+     <img src="https://skillicons.dev/icons?i=git,jquery,mysql,firebase,git,matlab,postgres,rassberrypi,codepen" />
   </a>
 </p>
 
@@ -30,7 +31,7 @@ Full Stack Web Developer
 
 ## Contact 
 <div> 
-  <a href="https://www.linkedin.com/in/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/ericagrundy](https://www.linkedin.com/in/prachi-kale-8a02452a3/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_prachyyyy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: prachiskale@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
