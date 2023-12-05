@@ -13,7 +13,7 @@ Full Stack Web Developer
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /><br/>
     <img src="https://skillicons.dev/icons?i=java,python,php,c,cpp,apollo" /><br/>
     <img src="https://skillicons.dev/icons?i=jquery,mysql,firebase,postgres" />
-     <img src="https://skillicons.dev/icons?i=git,jquery,mysql,firebase,git,matlab,postgres,rassberrypi,codepen" />
+     <img src="https://skillicons.dev/icons?i=git,jquery,mysql,firebase,git,matlab,rassberrypi,codepen" />
   </a>
 </p>
 
